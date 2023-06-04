@@ -1,0 +1,9 @@
+Step 1:Login to your GitHub account
+Step 2: Go to Personal settings
+Step 3: Click on Developer settings
+Step 4: Expand Personal access tokens
+Step 5: Click on Generate New Token
+Step 6: Provide some info about token in Note
+Step 6: Select appropriate Scopes
+Step 7: Click on Generate token button
+Step 8: Save this token for further purpose and may not shown here later.
